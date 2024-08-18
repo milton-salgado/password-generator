@@ -28,6 +28,9 @@ O Password Generator é um aplicativo mobile desenvolvido em React Native e Expo
 - Gerar senhas com diferentes números de caracteres, definidos pelo usuário.
 - Armazenar senhas geradas localmente utilizando Async Storage.
 - Exibir uma lista das senhas geradas anteriormente.
+- Ocultar e exibir as senhas geradas.
+- Copiar as senhas geradas para a área de transferência.
+- Excluir senhas geradas anteriormente.
 - Interface simples e intuitiva para fácil navegação.
 
 ### 🌐 Acesso
