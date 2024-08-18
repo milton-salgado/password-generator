@@ -37,7 +37,9 @@ O Password Generator é um aplicativo mobile desenvolvido em React Native e Expo
 ### 📸 Prévia
 
 <div align="center">
-  <img src="./src/assets/images/desktop-index.png">
+  <img src="./src/assets/images/home-preview.png" width="200">
+  <img src="./src/assets/images/modal-preview.png" width="200">
+  <img src="./src/assets/images/passwords-preview.png" width="200">
 </div>
 
 ## ⚙️ Construção
